@@ -151,3 +151,4 @@
 - { colors: '#6044db,#500ba3,#f0b31a,#FFFFFF,#997929,#ffffff,#f0b31a,#a92ab0', name: 'Mautic' }
 - { colors: '#6fa36f,#3E313C,#01690b,#ffff00,#3E313C,#ffffff,#faff78,#ed687e', name: 'Drupal Twig'}
 - { colors: '#EBEBEB,#F3D5C5,#F3D5C5,#000000,#5A5A5A,#000000,#F3D5C5,#F3D5C5', name: 'Female Founders Collective'}
+- { colors: '#FF9D9D,#FFC3C3,#FFC3C3,#ffffff,#FFC3C3,#FFFFFF,#FF9D9D,#FF9D9D', name: 'Pretty in Pink'}
